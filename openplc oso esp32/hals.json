@@ -1,0 +1,7 @@
+{
+   "OSO Board ESP32 v0.1": {
+      "platform": "esp32:esp32:esp32doit-devkit-v1",
+      "define": "BOARD_ESP32",
+      "source": "OSOesp32.cpp"
+   }
+}
