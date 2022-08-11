@@ -1,0 +1,2 @@
+1. copy paste file OSOesp32.cpp ke "\\\OpenPLC_Editor\editor\arduino\src\hal"
+2. copy paste file hals.json ke "\\\OpenPLC_Editor\editor\arduino\examples\Baremetal"
